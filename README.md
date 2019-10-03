@@ -2,5 +2,5 @@
 Examples of different code I have written. 
 
 
-Code-examples in Python, Julia and C++. 
+Code-examples in Python and C++. 
 Also examples of reports written in LaTeX. 
